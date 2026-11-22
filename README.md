@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![StrawPage](https://img.shields.io/badge/Strawpage-FAAC18)](https://cathedrale.straw.page)
+  [![StrawPage](https://img.shields.io/badge/Strawpage-621B02)](https://cathedrale.straw.page)
   
 
 
