@@ -1,8 +1,10 @@
 <div align="center">
   
   [![StrawPage](https://img.shields.io/badge/Strawpage-621B02)](https://tlmekiller.straw.page/)
-  
 
+
+  
+  [![Guestbook](https://img.shields.io/badge/Strawpage-621B02)](https://stalkme.lol/timekiller)
 
 
 
