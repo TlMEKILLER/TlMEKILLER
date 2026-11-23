@@ -4,7 +4,7 @@
 
 
   
-  [![Guestbook](https://img.shields.io/badge/Strawpage-621B02)](https://stalkme.lol/timekiller)
+  [![Guestbook](https://img.shields.io/badge/Guestbook-621B02)](https://stalkme.lol/timekiller)
 
 
 
